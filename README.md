@@ -5,7 +5,7 @@ To write a C program to input a number from the user and check whether the numbe
 ## For example:
 
 ## Program:
-``c
+```c
 #include<stdio.h>
 int main(){
     int n;
@@ -28,4 +28,4 @@ int main(){
     return 0;
 }
 ```
-Result:
+## Result:
